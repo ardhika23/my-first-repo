@@ -4,4 +4,4 @@ StudentID  : 2206821866
 
 Class      : PBP KI
 
-Hobby      : Diving
+Hobby      : Memasak
